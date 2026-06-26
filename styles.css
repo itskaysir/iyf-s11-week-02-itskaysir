@@ -64,6 +64,9 @@ body {
     font-family: var(--font-heading);
     font-size: var(--font-base);
     line-height: 1.6;
+    margin: 0;
+    padding: 2rem;
+    color: var(--color-text);
 }
 
 h1, h2, h3, h4 {
@@ -86,4 +89,34 @@ h4 {
 }
 small {
     font-size: var(--font-sm);
+}
+
+h1, h2, h3 {
+    color: var(--color-primary);
+}
+a {
+    color: var(--color-secondary);
+    text-decoration: none;
+}
+a :hover {
+    COLOR: var(--color-priary-light);
+}
+p {
+    line-height: 1.6;
+}
+.timestamp, .footer-text {
+    color: var(--color-muted);
+}
+.btn-primary {
+    background-color: var(--color-primary);
+    color: #121212;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.btn-primary:hover {
+    background-color: var(--color-primary-dark);
+    color: #fff;
 }
