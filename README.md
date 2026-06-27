@@ -6,16 +6,16 @@
 - **Date:** 06 24, 2026
 
 ## Project Description
-Brief description of what you built and why.
+This project involved writing and gaining experience by coding using css and embedding it to my html portfolio 
 
 ## Technologies Used
 - HTML5
 - CSS3
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- cards
+- topography 
+- box model
 
 ## How to Run
 1. Clone this repository
@@ -24,10 +24,11 @@ Brief description of what you built and why.
    Run `npm install` then `npm start`
 
 ## Lessons Learned
-What did you learn while building this project?
+The beauty that css brings to my website instead of using plain html
+html
 
 ## Challenges Faced
-What problems did you encounter and how did you solve them?
+
 
 ## Screenshots (optional)
 ![Screenshot description](path/to/screenshot.png)
