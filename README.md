@@ -27,11 +27,3 @@ This project involved writing and gaining experience by coding using css and emb
 The beauty that css brings to my website instead of using plain html
 html
 
-## Challenges Faced
-
-
-## Screenshots (optional)
-![Screenshot description](path/to/screenshot.png)
-
-## Live Demo (if deployed)
-[View Live Demo](https://your-deployed-url.com)
